@@ -115,6 +115,35 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 
 <br clear="both">
 
+###
+
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+<br clear="both">
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| WonderLust | [view](https://my-wanderlust-h694.onrender.com/listings) | [view](https://github.com/niteshverma01/My-wanderlust) |  `CSS` `javasvript` `EJS`  `Bootstrap CSS` `Node.js`  `Express`  `MongoDb` `cloudinary`  | 
+| LAZAREV | [view](https://niteshverma01.github.io/Lazarev./) | [view](https://github.com/niteshverma01/Lazarev.) | `HTML` `CSS` `Botstrap CSS` `Javascript`| 
+| Tazza | [view](https://niteshverma01.github.io/tazza/) | [view](https://github.com/niteshverma01/tazza) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind` `Github Libraries`| 
+| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
+| HTML2PDF | [view](https://html2-pdf.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `Next.js` `TypeScript` `Tailwind CSS` `BuildShip`|
+| Arcjet Demo | [view](https://arcjet-demo.vercel.app/) | [view](https://github.com/Anmol-Baranwal/arcjet-demo) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
+| Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
+| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
+| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
+| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
+| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
+| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
+| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
+| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
+| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
+| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+
+<br>
+
+
+
+
 <h2 align="left">My Social profiles ........</h2>
 
 ###
