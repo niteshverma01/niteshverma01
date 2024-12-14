@@ -1,11 +1,12 @@
 ###
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQyMDAzODUsIm5iZiI6MTczNDIwMDA4NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE4MTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyYzcyN2UyOTU0NTY0YmZiNjVkYmY1OTMxZDNiYThlOGUwZGMzZjBjNjA1ZDg0MTRjYjcwY2UyY2IxOGVlNjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wzkKbzRQfAkgEJdIXWd8KMrBbtxrlGRRVPDQLuY2XnI)
 ###
 
 <br clear="both">
 <h1 align="left">Hello! 👋 Viewers 😃</h1>
   <h4>
 Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++ to sharpen my problem-solving skills and gain hands-on experience. Alongside, I have a strong foundation in C, C++, MySQL, and frontend technologies such as HTML, Tailwind CSS, JavaScript, and React.js. On the backend, I excel in Node.js, Express.js, MySQL, and MongoDB. I am also continuously expanding my expertise by delving into Machine Learning, staying committed to growing as a versatile and skilled developer.<br>
+    
 <h1>💫 About Me :</h1> 
 <h4>I approach every challenge with a growth-oriented mindset, leveraging opportunities to expand my skills and broaden my expertise. My enthusiasm for coding, combined with my management capabilities, enables me to excel in dynamic, team-driven environments. Dedicated to lifelong learning and innovation, I aim to create a lasting, positive impact in the field of software development. </h4>
 <br>
@@ -143,6 +144,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 
 <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niteshverma01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
@@ -161,15 +163,19 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=niteshverma01&theme=github">
 </br>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## <h1>🔝 Top Contributed Repo </h1>
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=niteshverma01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## <h1>🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=niteshverma01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## <h1> 👨‍💻 LeetCode </h1>
 <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=ranvijay-kumar4&theme=github-drak" alt="LeetCode Badges"/> -->
@@ -179,6 +185,8 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <h1 align="center">On the journey of career development, I view knowledge as my greatest accomplishment.</h1>
 
 ###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <br clear="both">
 
