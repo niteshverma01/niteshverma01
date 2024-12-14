@@ -183,9 +183,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <br clear="both">
 
 <div align="center">
-### <h1>😂 Random Dev Meme </h1>
-<img  height: 300; src="https://codermemes.vercel.app/#4" />
-</div>
+
 <br clear="both">
 
 <h4 align="center">💙 If my projects resonate with you, I’d be grateful for your support with a star!  ⭐<br><br>💕<br><br>Thank You For Visiting my profile 💖</h4>
