@@ -14,6 +14,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <br>
 <h2 align="center"> 🙂 Kindly take a moment to explore my profile and repositories💖.<br><br> 👇✌️ </h2>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshverma01&label=Profile%20views&color=0e75b6&style=flat" alt="niteshverma01" /> </p>
 
 
 ###
@@ -45,6 +46,8 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
   <img width="50" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="50" />
+    <br/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="50" />
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="60" alt="Node logo"  />
@@ -123,21 +126,14 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | WonderLust | [view](https://my-wanderlust-h694.onrender.com/listings) | [view](https://github.com/niteshverma01/My-wanderlust) |  `CSS` `javasvript` `EJS`  `Bootstrap CSS` `Node.js`  `Express`  `MongoDb` `cloudinary`  | 
+|Portfolio| [view](https://niteshverma01.github.io/Myportfolio/) | [view](https://github.com/niteshverma01/Myportfolio) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind`|
 | LAZAREV | [view](https://niteshverma01.github.io/Lazarev./) | [view](https://github.com/niteshverma01/Lazarev.) | `HTML` `CSS` `Botstrap CSS` `Javascript`| 
-| Tazza | [view](https://niteshverma01.github.io/tazza/) | [view](https://github.com/niteshverma01/tazza) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind` `Github Libraries`| 
-|Portfolio| [view](https://niteshverma01.github.io/Myportfolio/) | [view](https://github.com/niteshverma01/Myportfolio) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind``| 
-| HTML2PDF | [view](https://html2-pdf.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `Next.js` `TypeScript` `Tailwind CSS` `BuildShip`|
-| Arcjet Demo | [view](https://arcjet-demo.vercel.app/) | [view](https://github.com/Anmol-Baranwal/arcjet-demo) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
-| Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
-| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
-| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
-| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
-| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
-| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+| Tazza | [view](https://niteshverma01.github.io/tazza/) | [view](https://github.com/niteshverma01/tazza) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind` `Github Libraries`|  
+| Dice game | [view](https://dice-game-ebon-one.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `React.js` `HTML` `CSS` `Bootstrap CSS`|
+| Weather App | [view](https://weather-app-mauve-gamma-98.vercel.app/) | [view](https://github.com/niteshverma01/weather-App) |`React.js` `HTML` `CSS` `Bootstrap CSS`|
+| Netflix Clone | [view](https://niteshverma01.github.io/Netflix-clone/) | [view](https://github.com/niteshverma01/Netflix-clone) | `HTML` `CSS` | 
+| Simon Says | [view](https://niteshverma01.github.io/simon-says/) | [view](https://github.com/niteshverma01/simon-says) | `HTML` `CSS` `JavaScript`  |
+
 
 <br>
 
@@ -169,7 +165,6 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <br clear="both">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshverma01&label=Profile%20views&color=0e75b6&style=flat" alt="niteshverma01" /> </p>
 
 <br>
 
