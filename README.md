@@ -125,7 +125,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 | WonderLust | [view](https://my-wanderlust-h694.onrender.com/listings) | [view](https://github.com/niteshverma01/My-wanderlust) |  `CSS` `javasvript` `EJS`  `Bootstrap CSS` `Node.js`  `Express`  `MongoDb` `cloudinary`  | 
 | LAZAREV | [view](https://niteshverma01.github.io/Lazarev./) | [view](https://github.com/niteshverma01/Lazarev.) | `HTML` `CSS` `Botstrap CSS` `Javascript`| 
 | Tazza | [view](https://niteshverma01.github.io/tazza/) | [view](https://github.com/niteshverma01/tazza) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind` `Github Libraries`| 
-| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
+|Portfolio| [view](https://niteshverma01.github.io/Myportfolio/) | [view](https://github.com/niteshverma01/Myportfolio) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind``| 
 | HTML2PDF | [view](https://html2-pdf.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `Next.js` `TypeScript` `Tailwind CSS` `BuildShip`|
 | Arcjet Demo | [view](https://arcjet-demo.vercel.app/) | [view](https://github.com/Anmol-Baranwal/arcjet-demo) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
 | Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
