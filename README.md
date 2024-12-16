@@ -12,7 +12,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <br>
 <h3> I'm from Madhya Pradesh, India 🤞. </h3>
 <br>
-<h2 align="center"> 🙂 Kindly take a moment to explore my profile and repositories💖.<br><br> 👇✌️ </h2>
+<h2 align="center">  Kindly take a moment to explore my profile and repositories.<br><br> 👇✌️ </h2>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshverma01&label=Profile%20views&color=0e75b6&style=flat" alt="niteshverma01" /> </p>
 
@@ -223,7 +223,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 
 <br clear="both">
 
-<h4 align="center">💙 If my projects resonate with you, I’d be grateful for your support with a star!  ⭐<br><br>💕<br><br>Thank You For Visiting my profile 💖</h4>
+<h4 align="center"> If my projects resonate with you, I’d be grateful for your support with a star!  ⭐<br><br><br><br>Thank You For Visiting my profile </h4>
 
 ###
 
