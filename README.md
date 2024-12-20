@@ -125,6 +125,8 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
+| Books Store |- | [view](https://github.com/niteshverma01/Books-store) |  `React.js` `javasvript`   `Tailwind CSS` `Node.js`  `Express`  `MongoDb` `GitHub`  | 
+
 | WonderLust | [view](https://my-wanderlust-h694.onrender.com/listings) | [view](https://github.com/niteshverma01/My-wanderlust) |  `CSS` `javasvript` `EJS`  `Bootstrap CSS` `Node.js`  `Express`  `MongoDb` `cloudinary`  | 
 |Portfolio| [view](https://niteshverma01.github.io/Myportfolio/) | [view](https://github.com/niteshverma01/Myportfolio) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind`|
 | LAZAREV | [view](https://niteshverma01.github.io/Lazarev./) | [view](https://github.com/niteshverma01/Lazarev.) | `HTML` `CSS` `Botstrap CSS` `Javascript`| 
