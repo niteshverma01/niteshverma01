@@ -130,7 +130,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 |Portfolio| [view](https://niteshverma01.github.io/Myportfolio/) | [view](https://github.com/niteshverma01/Myportfolio) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind`|
 | LAZAREV | [view](https://niteshverma01.github.io/Lazarev./) | [view](https://github.com/niteshverma01/Lazarev.) | `HTML` `CSS` `Botstrap CSS` `Javascript`| 
 | Tazza | [view](https://niteshverma01.github.io/tazza/) | [view](https://github.com/niteshverma01/tazza) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind` `Github Libraries`|  
-| Dice game | [view](https://dice-game-ebon-one.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `React.js` `HTML` `CSS` `Bootstrap CSS`|
+| Dice game | [view](https://dice-game-ebon-one.vercel.app/) | [view](https://github.com/niteshverma01/Dice-game) | `React.js` `HTML` `CSS` `Bootstrap CSS`|
 | Weather App | [view](https://weather-app-mauve-gamma-98.vercel.app/) | [view](https://github.com/niteshverma01/weather-App) |`React.js` `HTML` `CSS` `Bootstrap CSS`|
 | Netflix Clone | [view](https://niteshverma01.github.io/Netflix-clone/) | [view](https://github.com/niteshverma01/Netflix-clone) | `HTML` `CSS` | 
 | Simon Says | [view](https://niteshverma01.github.io/simon-says/) | [view](https://github.com/niteshverma01/simon-says) | `HTML` `CSS` `JavaScript`  |
