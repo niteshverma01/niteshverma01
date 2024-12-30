@@ -127,7 +127,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 |:---------|:-------------:|:----------:|:-------------------|
 | Books Store |- | [view](https://github.com/niteshverma01/Books-store) |  `React.js` `javasvript`   `Tailwind CSS` `Node.js`  `Express`  `MongoDb` `GitHub`  | 
 | WonderLust | [view](https://my-wanderlust-h694.onrender.com/listings) | [view](https://github.com/niteshverma01/My-wanderlust) |  `CSS` `javasvript` `EJS`  `Bootstrap CSS` `Node.js`  `Express`  `MongoDb` `cloudinary`  | 
-|Portfolio| [view](https://niteshverma01.github.io/Myportfolio/) | [view](https://github.com/niteshverma01/Myportfolio) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind`|
+|Portfolio| [view](https://niteshverma01.github.io/nitesh-verma-portfolio/) | [view](https://github.com/niteshverma01/nitesh-verma-portfolio) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind`|
 | LAZAREV | [view](https://niteshverma01.github.io/Lazarev./) | [view](https://github.com/niteshverma01/Lazarev.) | `HTML` `CSS` `Botstrap CSS` `Javascript`| 
 | Tazza | [view](https://niteshverma01.github.io/tazza/) | [view](https://github.com/niteshverma01/tazza) | `HTMl` `CSS` `Bootstrap CSS` `Javascript` `Tailwind` `Github Libraries`|  
 | Dice game | [view](https://dice-game-ebon-one.vercel.app/) | [view](https://github.com/niteshverma01/Dice-game) | `React.js` `HTML` `CSS` `Bootstrap CSS`|
