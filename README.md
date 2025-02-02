@@ -176,7 +176,7 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=niteshverma01&theme=react&hide_border=false&include_all_commits=true&count_private=false" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=niteshverma01&&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=niteshverma01&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
