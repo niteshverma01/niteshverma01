@@ -39,7 +39,7 @@ interface Developer {
 const niteshVerma: Developer = {
   name: "Nitesh Verma",
   location: "Madhya Pradesh, India 🇮🇳",
-  currentStatus: "Mastering DSA & System Design 🚀",
+  currentStatus: "MERN Stack Development 🚀",
   expertise: [
     "Full Stack Development 💻",
     "Problem Solving 🔧",
@@ -65,7 +65,7 @@ console.log("Code with ❤️, Learn with 🎯, Grow with 💪");
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,js,typescript&theme=dark" />
 
 ### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,js,nextjs,jquery&theme=dark" />
