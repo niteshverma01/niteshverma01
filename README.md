@@ -42,7 +42,6 @@ const niteshVerma: Developer = {
   currentStatus: "Mastering DSA & System Design 🚀",
   expertise: [
     "Full Stack Development 💻",
-    "Data Structures & Algorithms 🧠", 
     "Problem Solving 🔧",
     "MERN Stack Development 🌟"
   ],
