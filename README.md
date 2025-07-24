@@ -1,6 +1,6 @@
 <!-- Ultra Dynamic Header with Matrix Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NITESH%20VERMA&fontSize=100&fontAlignY=38&animation=twinkling&fontColor=fff&desc=🚀%20Full%20Stack%20Developer%20|%20🧠%20DSA%20Expert%20|%20💡%20Problem%20Solver&descAlignY=51&descAlign=62&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NITESH%20VERMA&fontSize=100&fontAlignY=38&animation=twinkling&fontColor=fff&desc=🚀%20Full%20Stack%20Developer%20|%20💡%20Problem%20Solver&descAlignY=51&descAlign=62&descSize=20" width="100%"/>
 </div>
 
 <!-- Matrix Typing Effect -->
