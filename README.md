@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=console.log(%22Hello%2C+World!%22);+%F0%9F%91%8B;const+developer+%3D+%22Nitesh+Verma%22;+%F0%9F%9A%80;while(coding)+%7B+learn()+%26%26+build()+%7D;+%F0%9F%A7%A0;%2F%2F+Always+pushing+boundaries+%E2%9C%A8" alt="Matrix Typing SVG" />
 </div>
 
-<!-- Advanced Profile Metrics -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=niteshverma01&label=Profile%20Views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/niteshverma01?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
