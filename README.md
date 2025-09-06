@@ -170,7 +170,7 @@ console.log("Code with ❤️, Learn with 🎯, Grow with 💪");
 
 | Platform | Profile | Solved | Rating |
 |----------|---------|--------|---------|
-| 🔥 **LeetCode** | [niteshverma--01](https://leetcode.com/u/niteshverma--01/) | **500+** | **1800+** |
+| 🔥 **LeetCode** | [niteshverma--01](https://leetcode.com/u/niteshverma--01/) | **230+** | **1800+** |
 
 </div>
 
